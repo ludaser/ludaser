@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologías que controlo
+## 🚀 Habilidades
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,git,github,vscode,discord,eclipse,html,js,css" />
