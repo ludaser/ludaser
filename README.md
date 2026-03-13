@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy David
 
-<!--
-**ludaser/ludaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en aprendizaje  
+🎮 Amante de los videojuegos (especialmente Pokémon)  
+🚀 Aprendiendo a crear proyectos y subirlos a GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que estoy aprendiendo
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+</p>
+
+---
+
+## 🎮 Proyecto destacado
+
+🕹️ **PokemonJuego1vs1**
+
+Un pequeño juego de combate Pokémon 1 vs 1 hecho como proyecto de aprendizaje.
+
+🔗 https://github.com/ludaser/PokemonJuego1vs1
+
+---
+
+## 📊 Mis estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludaser&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Racha de commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ludaser&theme=tokyonight)
+
+---
+
+## 🎮 Un poco de Pokémon para el perfil
+
+<img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="400">
+
+---
+
+⭐ Gracias por visitar mi perfil
