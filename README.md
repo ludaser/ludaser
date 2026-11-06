@@ -1,7 +1,7 @@
 # 👋 Hola, soy David!
 
 💻 Desarrollador en aprendizaje  
-🚀 Desarrollador de Software Junior
+🚀 Técnico de Ciberseguridad
 
 ---
 
